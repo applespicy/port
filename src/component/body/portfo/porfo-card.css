@@ -1,0 +1,24 @@
+.project-card{
+    flex:1;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 16px 0px;
+    padding: 8px 0px;
+}
+.project-photo{
+    width:40%;
+}
+.project-info{
+    margin-right:24px;
+}
+.project-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.project-links a{
+    text-decoration: none;
+    color: black;
+}
+
+
