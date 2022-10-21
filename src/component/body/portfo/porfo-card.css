@@ -1,13 +1,13 @@
 .project-card{
-    flex:1;
+    /* flex:1; */
     display:flex;
     justify-content: space-around;
     align-items: center;
-    margin: 16px 0px;
-    padding: 8px 0px;
+    /* margin: 16px 0px; */
+    /* padding: 8px 0px; */
 }
 .project-photo{
-    width:40%;
+    width:20%;
 }
 .project-info{
     margin-right:24px;
@@ -18,7 +18,7 @@
 }
 .project-links a{
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 

@@ -7,11 +7,12 @@ function About(){
         <div className="about">
           <div className="about-top">
             <div className="about-info">
-                hello!!, My name <span className="info-name">Oluwaseyi Oshinowo</span><br/>
+                Hello!!, My name <span className="info-name">Oluwaseyi Oshinowo</span><br/>
                 i love experimenting with the WEB
+                <p>A software Developer with Passion for learning and innovative creation</p>
             </div>
             <div className="about-photo">
-                <img src={require('../../../assest/coding.png').default} alt ="" className='picture'/>
+                <img src={require('../../../assest/pic1.png')} alt ="" className='picture'/>
             </div>
           </div>
             <SocialContact/>

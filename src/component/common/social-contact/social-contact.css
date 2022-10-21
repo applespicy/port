@@ -4,10 +4,10 @@
     align-items: center;
 }
 
-.social-contact-div{
+.social-icon-div{
     padding: 6px;
     cursor: pointer;
-    margin: 6px;
+    margin: 10px;
 }
 .social-icon{
     height:40px;

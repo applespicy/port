@@ -6,7 +6,7 @@ function SocialContact(){
     const data = SocialData;
     
     return(
-        <div>
+        <div className="social-contact">
             {data.map((item)=>{
                 return(
                     <a href={item.link}>

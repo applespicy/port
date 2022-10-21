@@ -9,11 +9,12 @@
 }
 
 .picture{
-    height:420px;
+    height:320px;
+    width: 300px;
 }
 
 .about-info{
-    font-size:24px;
+    font-size:20px;
 
 }
 .info-name{
